@@ -1,0 +1,2 @@
+C:\Users\acer\Documents\MathGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\acer\Documents\MathGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
